@@ -1,2 +1,2 @@
-# B-l-mSonuCal-mas-2
-Bölüm sonu çalışması
+# Bölüm Sonu Çalışması
+FrontEnd Patikasında yaptığım Bölüm Sonu Alıştırmasıdır, içerisinde bölümle alakalı gerekli materyalleri bulunduruyor.
